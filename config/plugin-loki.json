@@ -19,14 +19,14 @@
       "basic": [
         {
           "username": "gwadmin",
-          "password": "password",
+          "password": "ZTQwYTRlYzZmY2EyYTkzMjBmODU2Mjg4OTQ5N2ExZGU6MGU0MzcxYTA4MGY0M2Q4ZWU0ZjcwNzMwMjdmMWI1MGI=",
           "readOnly": false,
           "baseEntities": []
         }
       ],
       "bearerToken": [
         {
-          "token": null,
+          "token": "MWVkNDczNmI1YWUyOGM2N2I0MmY5ZjQ1NWFkOTZjNjc6NTc4MDMzZjk4MjNiNDRiOWEyOWJjOGIyNzNjMzFlOGI=",
           "readOnly": false,
           "baseEntities": []
         }
@@ -85,6 +85,6 @@
   },
   "endpoint": {
     "dbname": "loki.db",
-    "persistence": false
+    "persistence": true
   }
 }
